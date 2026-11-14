@@ -11,7 +11,7 @@
         "Steade",
         "Rossenblatt"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 2,
@@ -22,7 +22,7 @@
         "Eddy Kurnia",
         "Ramond V. Lesikar"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 3,
@@ -33,7 +33,7 @@
         "memperbaiki Opini",
         "memperbaiki Merk Perusahaan"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 4,
@@ -44,7 +44,7 @@
         "harus dirancang dan disampaikan sehingga menarik",
         "harus menggunakan lambang-lambang yang jelas dan singkat"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 5,
@@ -55,7 +55,7 @@
         "bahasa verbal maupun nonverbal, bermedia ataupun langsung",
         "bahasa yang sesuai dengan konteks budaya"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 6,
@@ -66,7 +66,7 @@
         "Berelson dan Steiner",
         "Rossenblatt"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 7,
@@ -77,7 +77,7 @@
         "Steade",
         "Rossenblatt"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 8,
@@ -88,7 +88,7 @@
         "pesan",
         "komunikan dan efek"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 9,
@@ -99,7 +99,7 @@
         "Steade",
         "L. D. Brennan"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 10,
@@ -110,7 +110,7 @@
         "courtesy",
         "consideration"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 11,
@@ -121,7 +121,7 @@
         "David K. Berlo",
         "Steade"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 12,
@@ -133,7 +133,7 @@
         "mengerutkan dahi",
         "menyapa"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 13,
@@ -144,7 +144,7 @@
         "ketulusan",
         "keunikan"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 14,
@@ -155,7 +155,7 @@
         "memberi jalan berbisnis",
         "memberi kesempatan intervensi"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 15,
@@ -166,7 +166,7 @@
         "Wright",
         "Lasswell"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 16,
@@ -177,7 +177,7 @@
         "anonim",
         "homogen"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 17,
@@ -188,7 +188,7 @@
         "Wright",
         "Hall dan Whyte"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 18,
@@ -199,7 +199,7 @@
         "signal communication",
         "retorika"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 19,
@@ -210,7 +210,7 @@
         "menghayati",
         "memahami"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 20,
@@ -221,7 +221,7 @@
         "reputasi",
         "kognitif"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 21,
@@ -232,7 +232,7 @@
         "Harold Lasswell",
         "Rossenblatt"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 22,
@@ -243,7 +243,7 @@
         "pelanggan",
         "komunitas"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 23,
@@ -254,7 +254,7 @@
         "saling pengertian",
         "dinamisme"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 24,
@@ -265,7 +265,7 @@
         "membungkuk",
         "menyapa"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 25,
@@ -276,7 +276,7 @@
         "mudah dibaca",
         "logis"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 26,
@@ -287,7 +287,7 @@
         "sosiologis",
         "populasi"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 27,
@@ -298,7 +298,7 @@
         "negosiasi",
         "kontak bisnis"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 28,
@@ -309,7 +309,7 @@
         "napas",
         "padi"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 29,
@@ -320,7 +320,7 @@
         "organisasi bisnis yang berkembang semakin kompleks",
         "semua jawaban benar"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 30,
@@ -331,7 +331,7 @@
         "lisan dan tertulis",
         "visual"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 31,
@@ -342,7 +342,7 @@
         "lisan",
         "visual"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 32,
@@ -353,7 +353,7 @@
         "pengalaman hidup komunikator",
         "isyarat nonverbal komunikan"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 33,
@@ -364,7 +364,7 @@
         "perilaku nonverbal dapat menyiasati perilaku verbal",
         "perilaku nonverbal dapat menggantikan perilaku verbal"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 34,
@@ -375,7 +375,7 @@
         "interest",
         "prejudice"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 35,
@@ -386,7 +386,7 @@
         "kognitif",
         "responsive"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 36,
@@ -397,7 +397,7 @@
         "linier",
         "multiliner"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 37,
@@ -408,7 +408,7 @@
         "presentasi penjualan",
         "semua Jawaban Benar"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 38,
@@ -419,7 +419,7 @@
         "kontrol",
         "emotif"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 39,
@@ -430,7 +430,7 @@
         "briefing",
         "konsultatif"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 40,
@@ -441,7 +441,7 @@
         "memperkaya keterampilan",
         "semua jawaban di atas benar"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 41,
@@ -452,7 +452,7 @@
         "bahasa tubuh",
         "semua jawaban di atas benar"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 42,
@@ -463,7 +463,7 @@
         "benci dan cinta",
         "semua jawaban di atas benar"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 43,
@@ -474,7 +474,7 @@
         "kontrol",
         "emotif"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 44,
@@ -485,7 +485,7 @@
         "segmentasi diri",
         "aktualisasi diri"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 45,
@@ -496,7 +496,7 @@
         "dapat memunculkan kesalahpahaman di antara karyawan",
         "merupakan alat untuk memecahkan permasalahan"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 46,
@@ -507,7 +507,7 @@
         "pesan mudah dipahami",
         "semua jawaban benar"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 47,
@@ -518,7 +518,7 @@
         "persuasif",
         "personal"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 48,
@@ -529,7 +529,7 @@
         "melancarkan arus informasi",
         "memudahkan proses komunikasi"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 49,
@@ -540,7 +540,7 @@
         "barter",
         "anjang sono"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 50,
@@ -551,7 +551,7 @@
         "keterlibatan saluran",
         "semuanya benar"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 51,
@@ -562,7 +562,7 @@
         "konsisten",
         "komprehensif"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 52,
@@ -573,7 +573,7 @@
         "terdokumentasikan",
         "universalitas"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 53,
@@ -584,7 +584,7 @@
         "radio",
         "telepon"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 54,
@@ -595,7 +595,7 @@
         "radio",
         "film"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 55,
@@ -606,7 +606,7 @@
         "picturisasi",
         "animasi"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 56,
@@ -617,7 +617,7 @@
         "internet",
         "televisi"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 57,
@@ -628,7 +628,7 @@
         "psikis",
         "afeksi"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 58,
@@ -639,7 +639,7 @@
         "media massa",
         "komunikasi menggunakan komputer"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 59,
@@ -650,7 +650,7 @@
         "kecepatan dan biaya",
         "semua jawaban benar"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 60,
@@ -661,7 +661,7 @@
         "proposal bisnis",
         "semua jawaban benar"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 61,
@@ -672,7 +672,7 @@
         "tersedianya stok barang",
         "tersedianya pasokan"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 62,
@@ -683,7 +683,7 @@
         "terbatas",
         "inovatif"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 63,
@@ -694,7 +694,7 @@
         "tidak terikat ruang dan waktu",
         "semua jawaban benar"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 64,
@@ -705,7 +705,7 @@
         "website",
         "ketiga jawaban di atas benar"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 65,
@@ -716,7 +716,7 @@
         "akses terhadap informasi menjadi mudah dan cepat",
         "keuntungan yang didapat besar"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 66,
@@ -727,7 +727,7 @@
         "screen",
         "bandwidth"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 67,
@@ -738,7 +738,7 @@
         "A dan B benar",
         "A dan B salah"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 68,
@@ -749,7 +749,7 @@
         "Rakhmat",
         "Elvinaro"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 69,
@@ -760,7 +760,7 @@
         "Rakhmat",
         "Elvinaro"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 70,
@@ -771,7 +771,7 @@
         "feedback tertunda",
         "komunikan homogen"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 71,
@@ -782,7 +782,7 @@
         "televisi",
         "satelit"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 72,
@@ -793,7 +793,7 @@
         "komunikannya anonim",
         "menimbulkan keserempakan"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 73,
@@ -804,7 +804,7 @@
         "komunikannya anonim",
         "menimbulkan keserempakan"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 74,
@@ -815,7 +815,7 @@
         "penyebaran nilai-nilai",
         "semua benar"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 75,
@@ -826,7 +826,7 @@
         "peringatan dan instrumental",
         "nilai dan hiburan"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 76,
@@ -837,7 +837,7 @@
         "keterkaitan",
         "penyebaran nilai"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 77,
@@ -848,7 +848,7 @@
         "keterkaitan",
         "penyebaran nilai"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 78,
@@ -859,7 +859,7 @@
         "Effendy",
         "Sunarto"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 79,
@@ -870,7 +870,7 @@
         "komunikator anonim",
         "semua benar"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 80,
@@ -881,7 +881,7 @@
         "wawancara",
         "interogasi"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 81,
@@ -892,7 +892,7 @@
         "wawancara",
         "interogasi"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 82,
@@ -903,7 +903,7 @@
         "kesenangan dan Bermain",
         "memperburuk hubungan"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 83,
@@ -914,7 +914,7 @@
         "kesenjangan sosial",
         "semua benar"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 84,
@@ -925,7 +925,7 @@
         "dukungan",
         "sikap Positif"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 85,
@@ -936,7 +936,7 @@
         "verbal dan nonverbal",
         "semua benar"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 86,
@@ -947,7 +947,7 @@
         "provisional",
         "semua benar"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 87,
@@ -959,7 +959,7 @@
         "Redding",
         "Hall dan Whyte"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 88,
@@ -970,7 +970,7 @@
         "Sumny",
         "Nasir"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 89,
@@ -981,7 +981,7 @@
         "formal",
         "informal"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 90,
@@ -992,7 +992,7 @@
         "formal",
         "informal"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 91,
@@ -1003,7 +1003,7 @@
         "formal",
         "informal"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 92,
@@ -1014,7 +1014,7 @@
         "kesadaran kelompok",
         "kepemimpinan otoriter"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 93,
@@ -1025,7 +1025,7 @@
         "kesadaran kelompok",
         "rasa aman"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 94,
@@ -1036,7 +1036,7 @@
         "goals",
         "semua benar"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 95,
@@ -1047,7 +1047,7 @@
         "tugas",
         "tujuan"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 96,
@@ -1058,7 +1058,7 @@
         "norma",
         "peranan"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 97,
@@ -1069,7 +1069,7 @@
         "keterbukaan",
         "semua benar"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 98,
@@ -1080,7 +1080,7 @@
         "internet",
         "informasi"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 99,
@@ -1091,7 +1091,7 @@
         "DTKIN",
         "ARPAnet"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 100,
@@ -1102,7 +1102,7 @@
         "2000-an",
         "1970-an"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 101,
@@ -1113,7 +1113,7 @@
         "DTKIN",
         "RADNET"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 102,
@@ -1124,7 +1124,7 @@
         "lambat",
         "tidak menarik"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 103,
@@ -1135,7 +1135,7 @@
         "cepat",
         "mengganggu jam kerja"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 104,
@@ -1146,7 +1146,7 @@
         "menjelaskan tugas",
         "semua benar"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 105,
@@ -1157,7 +1157,7 @@
         "media marketing",
         "semua benar"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 106,
@@ -1168,7 +1168,7 @@
         "dukungan publik",
         "citra negatif"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 107,
@@ -1179,7 +1179,7 @@
         "one to one",
         "one way"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 108,
@@ -1190,7 +1190,7 @@
         "orientasi pegawai",
         "apel pagi"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 109,
@@ -1201,7 +1201,7 @@
         "diskusi kelompok",
         "semua benar"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 110,
@@ -1212,7 +1212,7 @@
         "Viklan Bisen",
         "Philip V. Lewis"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 111,
@@ -1223,7 +1223,7 @@
         "hearing, interpretation, evaluation, respons",
         "evaluation, hearing, interpretation, respons"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 112,
@@ -1234,7 +1234,7 @@
         "kesopansantunan",
         "semua benar"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 113,
@@ -1245,7 +1245,7 @@
         "panjang",
         "kejelasan"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 114,
@@ -1256,7 +1256,7 @@
         "akses yang luas",
         "semua benar"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 115,
@@ -1267,7 +1267,7 @@
         "akurasi",
         "singkat"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 116,
@@ -1278,7 +1278,7 @@
         "singkat",
         "unity"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 117,
@@ -1289,7 +1289,7 @@
         "ekonomi",
         "ragam"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 118,
@@ -1300,7 +1300,7 @@
         "pertukaran makna",
         "A, B, dan C benar"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 119,
@@ -1311,7 +1311,7 @@
         "komunikasi dengan buta huruf",
         "membuat kerusuhan"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 120,
@@ -1322,7 +1322,7 @@
         "ilustrasi",
         "semua benar"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 121,
@@ -1333,7 +1333,7 @@
         "ilustrasi",
         "adaptasi"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 122,
@@ -1344,7 +1344,7 @@
         "proksemik",
         "paralinguistik"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 123,
@@ -1355,7 +1355,7 @@
         "proksemik",
         "paralinguistik"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 124,
@@ -1366,7 +1366,7 @@
         "power",
         "responsiveness"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 125,
@@ -1377,7 +1377,7 @@
         "maskulinitas",
         "semua benar"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 126,
@@ -1388,7 +1388,7 @@
         "proksemik",
         "paralinguistik"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 127,
@@ -1399,7 +1399,7 @@
         "volume",
         "fasial"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 128,
@@ -1410,7 +1410,7 @@
         "lambang dan simbol",
         "semua benar"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 129,
@@ -1421,7 +1421,7 @@
         "sarana informasi dan instruksi",
         "presentasi dan promosi"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 130,
@@ -1432,7 +1432,7 @@
         "huruf",
         "semua benar"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 131,
@@ -1443,7 +1443,7 @@
         "visual efek",
         "visual information"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 132,
@@ -1454,7 +1454,7 @@
         "visual efek",
         "visual information"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 133,
@@ -1465,7 +1465,7 @@
         "visual library",
         "visual information"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 134,
@@ -1476,7 +1476,7 @@
         "multimedia",
         "public relations"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 135,
@@ -1487,7 +1487,7 @@
         "GSM",
         "SIC"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 136,
@@ -1498,7 +1498,7 @@
         "simulator",
         "memperlemah ide"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 137,
@@ -1509,7 +1509,7 @@
         "ilmu psikologi",
         "semua benar"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 138,
@@ -1520,7 +1520,7 @@
         "kompetitor",
         "rival"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 139,
@@ -1531,7 +1531,7 @@
         "mendapat pinjaman modal",
         "menciptakan iklim komunikasi yang baik di organisasi"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 140,
@@ -1542,7 +1542,7 @@
         "lisensi",
         "dana"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 141,
@@ -1553,7 +1553,7 @@
         "tersedianya stok barang",
         "tersedianya pasokan"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 142,
@@ -1564,7 +1564,7 @@
         "audio-visual",
         "gabungan ketiganya"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 143,
@@ -1575,7 +1575,7 @@
         "kekeluargaan",
         "formal"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 144,
@@ -1586,7 +1586,7 @@
         "komunikasi massa",
         "ketiga jawaban di atas benar"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 145,
@@ -1597,7 +1597,7 @@
         "briefing",
         "diskusi"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 146,
@@ -1608,7 +1608,7 @@
         "mendistribusikan produk",
         "membuat desain produk"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 147,
@@ -1619,7 +1619,7 @@
         "menyediakan sarana pengaduan",
         "ketiga jawaban di atas benar"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 148,
@@ -1630,7 +1630,7 @@
         "memudahkan perancangan pesan",
         "ketiga jawaban di atas salah"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 149,
@@ -1641,7 +1641,7 @@
         "geografis",
         "ketiga jawaban di atas benar"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 150,
@@ -1652,7 +1652,7 @@
         "kondisi khalayak berbeda",
         "lokasi khalayak tersebar"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 151,
@@ -1663,7 +1663,7 @@
         "tingkat pendidikan khalayak",
         "tingkat sosial khalayak"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 152,
@@ -1674,7 +1674,7 @@
         "komponen konatif",
         "ketiga jawaban di atas benar"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 153,
@@ -1685,7 +1685,7 @@
         "taktik berkomunikasi yang tepat",
         "ketiga jawaban di atas benar"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 154,
@@ -1696,7 +1696,7 @@
         "mempertimbangkan karakter khalayak",
         "semua jawaban benar"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 155,
@@ -1707,7 +1707,7 @@
         "perintahkan audience untuk diskusi",
         "ajak audience untuk berkomunikasi dengan Anda"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 156,
@@ -1718,7 +1718,7 @@
         "melayani informasi",
         "menjalankan tugas"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 157,
@@ -1729,7 +1729,7 @@
         "jumlah peserta",
         "profile audience"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 158,
@@ -1740,7 +1740,7 @@
         "ruang tamu",
         "ruang belakang"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 159,
@@ -1751,7 +1751,7 @@
         "komite aksi politik",
         "parlemen"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 160,
@@ -1762,7 +1762,7 @@
         "memprediksi apa yang akan terjadi",
         "mencari proyek"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 161,
@@ -1773,7 +1773,7 @@
         "kalah dan menang",
         "jawaban di atas semua salah"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 162,
@@ -1784,7 +1784,7 @@
         "kalah dan menang",
         "masing-masing kalah dan menang"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 163,
@@ -1795,7 +1795,7 @@
         "kalah dan menang",
         "jawaban di atas semua salah"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 164,
@@ -1806,7 +1806,7 @@
         "komunikasi",
         "kelebihan"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 165,
@@ -1817,7 +1817,7 @@
         "menjalankan kekuasaan",
         "melakukan persuasi"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 166,
@@ -1828,7 +1828,7 @@
         "kesamaan keinginan",
         "perbedaan keinginan"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 167,
@@ -1839,7 +1839,7 @@
         "usaha",
         "proses"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 168,
@@ -1850,7 +1850,7 @@
         "menentukan orang yang melobi",
         "menentukan biaya lobi"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 169,
@@ -1861,7 +1861,7 @@
         "memperbaiki Perusahaan",
         "berbicara pada pengambilan keputusan"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 170,
@@ -1872,7 +1872,7 @@
         "memperbaiki perusahaan",
         "jawaban di atas semua benar"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 171,
@@ -1883,7 +1883,7 @@
         "suasana yang tepat",
         "lingkungan"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 172,
@@ -1894,7 +1894,7 @@
         "tunduk pada kemampuan pihak lain",
         "kukuh pada pendirian"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 173,
@@ -1905,7 +1905,7 @@
         "kurang penting",
         "tidak berperan apa-apa"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 174,
@@ -1916,7 +1916,7 @@
         "Eco-centered",
         "Eco-logical"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 175,
@@ -1927,7 +1927,7 @@
         "masyarakat luas",
         "dunia bisnis"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 176,
@@ -1938,7 +1938,7 @@
         "membangkitkan pengaruh",
         "jawaban A, B, dan C benar"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 177,
@@ -1949,7 +1949,7 @@
         "usaha",
         "proses"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 178,
@@ -1960,7 +1960,7 @@
         "orang dengan zodiak tertentu",
         "milik para politisi"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 179,
@@ -1971,7 +1971,7 @@
         "pemilikan pengetahuan umum",
         "kemampuan berbicara"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 180,
@@ -1982,7 +1982,7 @@
         "berempati",
         "menjabarkan pandangan orang lain"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 181,
@@ -1993,7 +1993,7 @@
         "kecil formal",
         "yang bernegosiasi"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 182,
@@ -2004,7 +2004,7 @@
         "mengulur waktu negosiasi hingga larut malam",
         "jawaban a, b, dan c benar"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 183,
@@ -2015,7 +2015,7 @@
         "tempat negosiasi",
         "informasi negosiasi"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 184,
@@ -2026,7 +2026,7 @@
         "agenda negosiasi",
         "isi pembicaraan"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 185,
@@ -2037,7 +2037,7 @@
         "parsial",
         "tidak ada"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 186,
@@ -2048,7 +2048,7 @@
         "sikap lawan negosiasi",
         "hubungan baik dengan lawan negosiasi"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 187,
@@ -2059,7 +2059,7 @@
         "kolaborasi",
         "ketiga jawaban di atas benar"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 188,
@@ -2071,7 +2071,7 @@
         "bekerja sama saja",
         "untuk iseng saja"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 189,
@@ -2083,7 +2083,7 @@
         "penentuan media/saluran pesan",
         "A, B, C, D benar"
       ],
-      "answer": 5
+      "answer": 4
     },
     {
       "id": 190,
@@ -2095,7 +2095,7 @@
         "Apakah orang yang mengirimkan pesan sudah tepat?",
         "Apakah tujuannya selaras dengan tujuan organisasi bisnis?"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 191,
@@ -2107,7 +2107,7 @@
         "Apa yang perlu mereka ketahui dari pesan Anda?",
         "Informasi apa yang mereka butuhkan?"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 192,
@@ -2119,7 +2119,7 @@
         "urutkan berdasarkan abjad",
         "berdasarkan hati nurani"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 193,
@@ -2131,7 +2131,7 @@
         "memecah gagasan umum dengan kategori spesifik",
         "menyajikan masalah dan pembahasannya"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 194,
@@ -2143,7 +2143,7 @@
         "memecah gagasan umum dengan kategori spesifik",
         "menyajikan masalah dan pembahasannya"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 195,
@@ -2155,7 +2155,7 @@
         "mengevaluasi audiens",
         "menulis ulang pesan"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 196,
@@ -2167,7 +2167,7 @@
         "hilangkan kata-kata yang berlebih",
         "hilangkan petunjuk yang membingungkan"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 197,
@@ -2179,7 +2179,7 @@
         "proofreading dilakukan untuk mendapat simpati penerima",
         "proofreading dilakukan untuk mengisi waktu"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 198,
@@ -2191,7 +2191,7 @@
         "legal dan ilegal",
         "individu dan organisasi"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 199,
@@ -2203,7 +2203,7 @@
         "mudah dimengerti dan terbebas dari salah tafsir",
         "mudah dibaca"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 200,
@@ -2215,7 +2215,7 @@
         "agar perusahaan eksis di hadapan pelanggan",
         "pengambilan keputusan"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 201,
@@ -2227,7 +2227,7 @@
         "juru ketik",
         "bagian stempel"
       ],
-      "answer": 5
+      "answer": 4
     },
     {
       "id": 202,
@@ -2239,7 +2239,7 @@
         "dasar penilaian dan keputusan",
         "semua benar"
       ],
-      "answer": 5
+      "answer": 4
     },
     {
       "id": 203,
@@ -2251,7 +2251,7 @@
         "panggilan",
         "asli"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 204,
@@ -2263,7 +2263,7 @@
         "keluar",
         "rahasia"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 205,
@@ -2275,7 +2275,7 @@
         "identitas diri",
         "kelengkapan surat"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 206,
@@ -2287,7 +2287,7 @@
         "mengetahui jumlah surat yang dibuat",
         "semua benar"
       ],
-      "answer": 5
+      "answer": 4
     },
     {
       "id": 207,
@@ -2299,7 +2299,7 @@
         "tidak boleh ada kalimat tambahan",
         "catatan"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 208,
@@ -2311,7 +2311,7 @@
         "dikirimnya",
         "dibuatnya"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 209,
@@ -2323,7 +2323,7 @@
         "surat undangan",
         "semua benar"
       ],
-      "answer": 5
+      "answer": 4
     },
     {
       "id": 210,
@@ -2335,7 +2335,7 @@
         "kode pedoman pakaian",
         "semua benar"
       ],
-      "answer": 5
+      "answer": 4
     },
     {
       "id": 211,
@@ -2347,7 +2347,7 @@
         "pemberian diskon hingga 30 persen",
         "pembukaan cabang baru"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 212,
@@ -2359,7 +2359,7 @@
         "Anda tidak yakin dengan penerimaan penerima",
         "Anda tidak mengetahui apapun tentang penerima"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 213,
@@ -2371,7 +2371,7 @@
         "Anda tahu penerima bersikap tak acuh dengan kabar buruk",
         "Anda tidak mengetahui apapun tentang penerima"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 214,
@@ -2383,7 +2383,7 @@
         "membantu penerima untuk lebih siap menerima berita buruk",
         "membantu pemberi tetap bersikap baik"
       ],
-      "answer": 5
+      "answer": 4
     },
     {
       "id": 215,
@@ -2395,7 +2395,7 @@
         "mempengaruhi dengan cara positif",
         "memberikan rayuan"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 216,
@@ -2407,7 +2407,7 @@
         "perilaku",
         "mengubah sikap"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 217,
@@ -2419,7 +2419,7 @@
         "mempengaruhi dengan memberikan informasi untuk memilih",
         "berbasa basi"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 218,
@@ -2431,7 +2431,7 @@
         "permintaan untuk dapat diterima",
         "kemampuan-kemampuan yang dimiliki oleh pelamar sesuai dengan posisi atau jabatan yang ditawarkan"
       ],
-      "answer": 5
+      "answer": 4
     },
     {
       "id": 219,
@@ -2443,7 +2443,7 @@
         "menuliskan apa adanya",
         "harus dapat meyakinkan bahwa ia memiliki sesuatu yang bermanfaat sehingga menumbuhkan rasa tertarik bagi penerima"
       ],
-      "answer": 5
+      "answer": 4
     },
     {
       "id": 220,
@@ -2455,7 +2455,7 @@
         "Anda menyebutkan seseorang yang mengenal Anda",
         "semua jawaban benar"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 221,
@@ -2467,7 +2467,7 @@
         "kualifikasi keahlian khusus yang tidak dimiliki oleh pelamar lainnya",
         "Semua Jawaban Benar"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 222,
@@ -2479,7 +2479,7 @@
         "hindari kata-kata yang bombastis",
         "menuntut gaji"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 223,
@@ -2491,7 +2491,7 @@
         "curriculum vitae",
         "singkatan"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 224,
@@ -2503,7 +2503,7 @@
         "Berapa indeks prestasi saya secara keseluruhan?",
         "Apakah saya memiliki kecerdasan kuantitatif yang tinggi?"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 225,
@@ -2515,7 +2515,7 @@
         "Apakah di masa mendatang, bidang yang kita pilih mempunyai tingkat persaingan yang tinggi?",
         "Apakah ada efek samping yang membahayakan bagi kesehatan?"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 226,
@@ -2527,7 +2527,7 @@
         "resume kronologis, resume situasional, resume kombinasi",
         "resume fungsional, resume kombinasi, resume analisis"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 227,
@@ -2539,7 +2539,7 @@
         "keakuratan",
         "kejujuran"
       ],
-      "answer": 5
+      "answer": 4
     },
     {
       "id": 228,
@@ -2551,7 +2551,7 @@
         "fungsi",
         "kebutuhan"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 229,
@@ -2563,7 +2563,7 @@
         "latar belakang masalah",
         "kata pengantar"
       ],
-      "answer": 5
+      "answer": 4
     },
     {
       "id": 230,
@@ -2575,7 +2575,7 @@
         "judul, pendahuluan, penutup",
         "perkenalan, pendahuluan, penutup"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 231,
@@ -2587,7 +2587,7 @@
         "menjelaskan suatu proses atau prosedur",
         "mendeskripsikan waktu"
       ],
-      "answer": 5
+      "answer": 4
     },
     {
       "id": 232,
@@ -2599,7 +2599,7 @@
         "subjudul (sub heading)",
         "topik"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 233,
@@ -2611,7 +2611,7 @@
         "pendekatan baku",
         "deduktif"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 234,
@@ -2623,7 +2623,7 @@
         "pendekatan baku",
         "pendekatan subjektif"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 235,
@@ -2635,7 +2635,7 @@
         "tidak ada ketentuan dalam menentukan format outline",
         "perhatikan maksud dan tujuan"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 236,
@@ -2647,7 +2647,7 @@
         "pengantar",
         "amplop"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 237,
@@ -2659,7 +2659,7 @@
         "proposal",
         "laporan langsung"
       ],
-      "answer": 5
+      "answer": 4
     },
     {
       "id": 238,
@@ -2670,7 +2670,7 @@
         "Manusia harus selalu berkomunikasi melalui kemampuan presentasi dan berbicara.",
         "Audiens akan percaya pada gaya berbicara seseorang daripada isi informasi yang disampaikan."
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 239,
@@ -2681,7 +2681,7 @@
         "Tidak terampil menggunakan alat bantu.",
         "Jawaban benar semua."
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 240,
@@ -2692,7 +2692,7 @@
         "Meminta maaf atas kegugupan Anda.",
         "Mengulur waktu dengan mempersiapkan alat bantu presentasi."
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 241,
@@ -2703,7 +2703,7 @@
         "Menarik perhatian audiens dengan intonasi yang besar.",
         "Masukan tangan ke dalam saku."
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 242,
@@ -2714,7 +2714,7 @@
         "Memotivasi audiens untuk bertindak sesuatu.",
         "Semua jawaban benar."
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 243,
@@ -2725,7 +2725,7 @@
         "memberikan perbandingan tentang produk dengan pesaing",
         "memberikan gambaran bisnis"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 244,
@@ -2736,7 +2736,7 @@
         "khalayak",
         "semua jawaban benar"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 245,
@@ -2747,7 +2747,7 @@
         "tahu segalanya",
         "adalah customer"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 246,
@@ -2758,7 +2758,7 @@
         "kelompok",
         "lewat media"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 247,
@@ -2769,7 +2769,7 @@
         "merupakan salah satu jenis komunikasi",
         "dapat mewakili bahasa lisan"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 248,
@@ -2780,7 +2780,7 @@
         "instruksi",
         "sharing"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 249,
@@ -2791,7 +2791,7 @@
         "sharing",
         "evaluasi"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 250,
@@ -2802,7 +2802,7 @@
         "lembur",
         "kenaikan gaji berkala"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 251,
@@ -2813,7 +2813,7 @@
         "pengerjaan perintah",
         "kenaikan gaji"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 252,
@@ -2824,7 +2824,7 @@
         "penyamaan persepsi",
         "kerja sama semakin erat"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 253,
@@ -2835,7 +2835,7 @@
         "ambisius",
         "low of credibility"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 254,
@@ -2846,7 +2846,7 @@
         "materi",
         "semua jawaban benar"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 255,
@@ -2857,7 +2857,7 @@
         "pendalaman wacana",
         "semua jawaban benar"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 256,
@@ -2868,7 +2868,7 @@
         "bersikukuh pada ide yang dikemukakan",
         "tegas dalam mempertahankan pendapat"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 257,
@@ -2879,7 +2879,7 @@
         "bertanya",
         "berpura-pura tahu agar tidak terlihat bodoh"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 258,
@@ -2890,7 +2890,7 @@
         "mencari sumber daya manusia yang murah",
         "mencari sumber daya manusia yang efisien"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 259,
@@ -2901,7 +2901,7 @@
         "komunikan dan komunikator",
         "panitia dan peserta"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 260,
@@ -2912,7 +2912,7 @@
         "closing",
         "ending"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 261,
@@ -2923,7 +2923,7 @@
         "singkat, padat, jelas tidak berbelit-belit",
         "kata menggunakan bahasa modern dan ilmiah"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 262,
@@ -2934,7 +2934,7 @@
         "postur tubuh meyakinkan",
         "bergaya modern"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 263,
@@ -2945,7 +2945,7 @@
         "pakaian, latihan, dan beradu argumen",
         "menggunakan alat bantu slide atau visual"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 264,
@@ -2956,7 +2956,7 @@
         "ajukan pertanyaan jika ada yang tidak dimengerti meski belum diminta",
         "tinggalkan kesan yang mendalam dan positif"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 265,
@@ -2967,7 +2967,7 @@
         "keputusan diterima dengan baik",
         "keputusan ditentukan oleh pimpinan rapat"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 266,
@@ -2978,7 +2978,7 @@
         "inovasi dan difusi organisasi",
         "mencari keunggulan produk"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 267,
@@ -2989,7 +2989,7 @@
         "lepas kendali, apabila terjadi perdebatan",
         "perdebatan yang menjurus konflik fungsional"
       ],
-      "answer": 4
+      "answer": 3
     }
   ]
 }
